@@ -8,7 +8,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Habilidades: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 Estoy trabajando en this page. 
+
 
 
 ## Acerca de mí
