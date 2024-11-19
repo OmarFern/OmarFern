@@ -11,5 +11,11 @@ Habilidades: VUE JS / REACT / JS / HTML / CSS
 - 🔭 Estoy trabajando en this page. 
 
 
+## Acerca de mí
 
+Soy Omar Jaldin, un profesional en [tu área de especialización]. Puedes conocer más sobre mi experiencia y habilidades en mi [perfil de LinkedIn](https://www.linkedin.com/in/omar-jaldin/).
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/omar-jaldin/)
 
