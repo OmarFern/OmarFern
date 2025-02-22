@@ -18,4 +18,21 @@ Soy Omar Jaldin, un profesional en [tu área de especialización]. Puedes conoce
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/omar-jaldin/)
-
+- ## Table of Contents
+- [Introduction](#introduction)
+- [Skills](#skills)
+- [About Me](#about-me)
+- [Contact](#contact)
+- ## Skills
+- VUE JS
+- REACT
+- JavaScript
+- HTML
+- CSS
+- ## Contact
+- [LinkedIn](https://www.linkedin.com/in/omar-jaldin/)
+- [GitHub](https://github.com/OmarFern)
+![Build Status](https://img.shields.io/github/workflow/status/OmarFern/OmarFern/CI)
+![License](https://img.shields.io/github/license/OmarFern/OmarFern)
+## Contributing
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
