@@ -32,7 +32,7 @@ Soy Omar Jaldin, un profesional en [tu área de especialización]. Puedes conoce
 - ## Contact
 - [LinkedIn](https://www.linkedin.com/in/omar-jaldin/)
 - [GitHub](https://github.com/OmarFern)
-![Build Status](https://img.shields.io/github/workflow/status/OmarFern/OmarFern/CI)
+![Build Status]()
 ![License](https://img.shields.io/github/license/OmarFern/OmarFern)
 ## Contributing
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
